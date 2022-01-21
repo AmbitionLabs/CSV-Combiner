@@ -8,7 +8,7 @@
  
  Considerations:
  - the combiner does not delete or modify the source csv files 
- - the content from each file will be appended to the end of the previous file within a new file
+ - the content from each source file will be appended to the end of the previous file within a new file
  - the combiner uses the column headings of the first(alphabetical) csv file processed in the directory you pick, so either make sure each file has the same column headings OR place a dash or underscore at the beginning of the filename you'd like to use as the heading authority. 
  _--Because of this behaviour, the file can also be used as a tool to apply headings to multiple heading-less .csv files._
  
