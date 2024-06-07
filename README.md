@@ -4,7 +4,7 @@
  
  How to use:
   - run the .exe or .ps1 and choose the path where your files exist
-  - notice the new output file
+  - notice the new output file in the same directory as the source file
  
  Considerations:
  - the combiner does not delete or modify the source csv files 
